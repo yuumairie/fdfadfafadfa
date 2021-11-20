@@ -1,0 +1,11 @@
+
+$primary: green;
+$test: blue;
+
+$theme-colors:(
+  "test":#900,
+  "juc": $test
+);
+
+
+@import "~bootstrap/scss/bootstrap";
